@@ -1,0 +1,5 @@
+rofi.font: System San Fracisco Display 13
+rofi.lines: 3
+rofi.opacity: "85"
+rofi.theme: Arc-Dark
+#include "/usr/share/rofi/themes//android_notification.theme"
