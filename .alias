@@ -1,1 +1,2 @@
 alias ohmyzsh='source ~/.zshrc'
+alias dot-git='git --git-dir=/home/jaxing/.dotfiles/ --work-tree=/home/jaxing'
