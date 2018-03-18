@@ -219,7 +219,7 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
 # Language control
-bindsym $mod+space exec $HOMR/.scripts/toggle_keyboard_layout.sh
+bindsym $mod+space exec $HOME/.scripts/toggle_keyboard_layout.sh
 
 exec_always feh --bg-scale $HOME/Pictures/wallpaper.jpeg
 exec_always $HOME/.screenlayout/default_setting.sh
