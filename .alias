@@ -1,2 +1,4 @@
 alias ohmyzsh='source ~/.zshrc'
 alias dot-git='git --git-dir=/home/jaxing/.dotfiles/ --work-tree=/home/jaxing'
+alias py3='source /home/jaxing/envs/py3_env/bin/activate'
+alias py_kag='source /home/jaxing/envs/py3_kaggle/bin/activate'
