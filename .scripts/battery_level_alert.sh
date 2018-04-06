@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while true; do
 	battery_level=`acpi -b | grep -P -o '[0-9]+(?=%)'`
    	if [ $battery_level -le 10 ]; then
